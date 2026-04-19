@@ -1,5 +1,5 @@
-name: cadify_technologies_app
-description: Production-ready Flutter UI for Cadify Technologies
+name: flutter_health_dashboard_ui
+description: A pixel-perfect Flutter health dashboard portfolio project.
 publish_to: 'none'
 
 version: 1.0.0+1
